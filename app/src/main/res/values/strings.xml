@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">My Application2</string>
+    <string name="Hello">Wellcome to out Android Studio</string>
+    <string name="login">Log in</string>
+    <string name="password">Password</string>
+    <string name="email">Input your emamail to sign up</string>
+    <string name="subcribe">Subcribe</string>
+    <string name="button1">Click</string>
+    <string name="singup">Sign up  for facebook</string>
+    <string name="input1">Input your name or email</string>
+    <string name="input2">Input your password</string>d
+    <string name="button2">Click hihi</string>
+    <string name="forgot">Forgot password</string>
+
 </resources>
